@@ -1,6 +1,9 @@
 # springboot-demoapp-for-docker
 
 ```
+# jar作成
+$ mvn package
+
 # docker image 作成
 $ docker build -t spring-boot-docker .
 
